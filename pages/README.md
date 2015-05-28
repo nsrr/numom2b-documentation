@@ -2,6 +2,9 @@
 
 Learn more here: https://www.nichd.nih.gov/research/supported/Pages/nuMoM2b.aspx
 
+## Equipment
+- [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
+
 ## Citation
 
 When citing this dataset please use:
