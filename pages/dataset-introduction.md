@@ -17,9 +17,9 @@ There are two CSV dataset files.
 
 ## Contents
 
-The datasets are deidentified. Individual participants are distinguished by the [https://sleepdata.org/datasets/numom2b/variables/publicid](PublicID) variable. Only participants who agreed to share their data have been included.
+The datasets are deidentified. Individual participants are distinguished by the [PublicID](https://sleepdata.org/datasets/numom2b/variables/publicid) variable. Only participants who agreed to share their data have been included.
 
-Browse the [nuMoM2b dataset variables](https://sleepdata.org/datasets/numom2b/variables). Additional data can be downloaded and linked (by PublicID) from [NICHD's DASH resource](https://dash.nichd.nih.gov/study/226675).
+Click [here to browse the the nuMoM2b dataset variables](https://sleepdata.org/datasets/numom2b/variables). Additional data can be downloaded and linked (by PublicID) from [NICHD's DASH resource](https://dash.nichd.nih.gov/study/226675).
 
 ## Questions?
 
