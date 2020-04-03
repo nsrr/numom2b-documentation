@@ -13,9 +13,9 @@ https://dash.nichd.nih.gov/study/226675
 
 When using this dataset, please cite the following:
 
-> [Zhang GQ, Cui L, Mueller R, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018;25(10):1351–1358. doi:10.1093/jamia/ocy064](https://www.ncbi.nlm.nih.gov/pubmed/29860441)
+> [Zhang GQ, Cui L, Mueller R, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018;25(10):1351–1358. doi:10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 >
-> [Facco FL, Parker CB, Reddy UM, et al. NuMoM2b Sleep-Disordered Breathing study: objectives and methods. Am J Obstet Gynecol. 2015;212(4):542.e1–542.e127. doi:10.1016/j.ajog.2015.01.021](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+> [Facco FL, Parker CB, Reddy UM, et al. NuMoM2b Sleep-Disordered Breathing study: objectives and methods. Am J Obstet Gynecol. 2015;212(4):542.e1–542.e127. doi:10.1016/j.ajog.2015.01.021](https://pubmed.ncbi.nlm.nih.gov/25746730/)
 
 Please include the following text in the Acknowledgements:
 
