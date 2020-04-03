@@ -20,9 +20,9 @@ Please include the following text in the Acknowledgements:
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/04-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data and home sleep testing results from the nuMoM2b Sleep-Disordered Breathing Substudy.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/05-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight home sleep testing from Visit 1 and Visit 3.
 
 ## Protocols and manuals
 
