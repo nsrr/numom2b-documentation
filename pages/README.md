@@ -1,13 +1,10 @@
 # About
 
-The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be (nuMoM2b), which began in 2010, studies pregnant women who will be delivering for the first time (nulliparous women). This prospective cohort study evaluates the underlying, interrelated mechanisms of several common adverse pregnancy outcomes, which can be unpredictable in women who have little or no pregnancy history, to help guide their treatment. This initiative addresses a critical group of at-risk women who are currently understudied and represent 40% of U.S. births each year. The results of this study will help inform healthcare providers and their patients who are pregnant or considering pregnancy and will support future research to improve care and outcomes in this group of women.
+The [Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be (nuMoM2b)](https://www.nichd.nih.gov/research/supported/nuMoM2b), which began in 2010, studies pregnant women who will be delivering for the first time (nulliparous women). This prospective cohort study evaluates the underlying, interrelated mechanisms of several common adverse pregnancy outcomes, which can be unpredictable in women who have little or no pregnancy history, to help guide their treatment. This initiative addresses a critical group of at-risk women who are currently understudied and represent 40% of U.S. births each year. The results of this study will help inform healthcare providers and their patients who are pregnant or considering pregnancy and will support future research to improve care and outcomes in this group of women.
 
 The study was initiated by NICHD's Pregnancy and Perinatology Branch and is primarily funded by NICHD, with co-funding from the NIH Office of Research on Women's Health. A National Heart, Lung, and Blood Institute-funded substudy of 3,600 nuMoM2b participants is examining the relationship between sleep disorders during pregnancy and adverse pregnancy outcomes.
 
-Learn more here: https://www.nichd.nih.gov/research/supported/Pages/nuMoM2b.aspx
-
-https://www.nichd.nih.gov/research/supported/nuMoM2b
-https://dash.nichd.nih.gov/study/226675
+Additional nuMoM2b data are available at [NICHD's DASH resource](https://dash.nichd.nih.gov/study/226675).
 
 ## Citation and acknowledgement
 
@@ -29,7 +26,11 @@ Please include the following text in the Acknowledgements:
 
 ## Protocols and manuals
 
-- [MOP](#)
+- [Sleep Breathing Substudy Manual of Operations](:files_path:/documentation/nuMoM2b-SBS-MOO.pdf)
 
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
