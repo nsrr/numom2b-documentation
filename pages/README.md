@@ -20,9 +20,9 @@ Please include the following text in the Acknowledgements:
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data and home sleep testing results from the nuMoM2b Sleep-Disordered Breathing Substudy.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data and home sleep testing results.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight home sleep testing from Visit 1 and Visit 3.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Raw physiological data and scoring annotations from home sleep testing.
 
 ## Protocols and manuals
 
