@@ -16,7 +16,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be was supported by grant funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) and the National Heart Lung and Blood Institute: U10 HD063036, Research Triangle Institute; U10 HD063072, Case Western Reserve University; U10 HD063047, Columbia University; U10 HD063037, Indiana University; U10 HD063041, Magee-Women's Hospital; U10 HD063020, Northwestern University; U10 HD063046, University of California Irvine; U10 HD063048, University of Pennsylvania; and U10 HD063053, University of Utah.
+> The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be was supported by grant funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) and the National Heart Lung and Blood Institute: U10 HD063036, Research Triangle Institute; U10 HD063072, Case Western Reserve University; U10 HD063047, Columbia University; U10 HD063037, Indiana University; U10 HD063041, Magee-Women's Hospital; U10 HD063020, Northwestern University; U10 HD063046, University of California Irvine; U10 HD063048, University of Pennsylvania; and U10 HD063053, University of Utah. The National Sleep Research Resource was supported by the National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, RFP 75N92019R002).
 
 ## Data overview
 
