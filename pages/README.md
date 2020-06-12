@@ -12,11 +12,11 @@ When using this dataset, please cite the following:
 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 >
-> [Quan SF, Howard BV, Iber C, Kiley JP, Nieto FJ, O'Connor GT, Rapoport DM, Redline S, Robbins J, Samet JM, Wahl PW. The Sleep Heart Health Study: design, rationale, and methods. Sleep. 1997 Dec;20(12):1077-85. PMID: 9493915.](https://pubmed.ncbi.nlm.nih.gov/9493915/)
+> [Facco FL, Parker CB, Reddy UM, Silver RM, Louis JM, Basner RC, Chung JH, Schubert FP, Pien GW, Redline S, Mobley DR, Koch MA, Simhan HN, Nhan-Chang CL, Parry S, Grobman WA, Haas DM, Wing DA, Mercer BM, Saade GR, Zee PC. NuMoM2b Sleep-Disordered Breathing study: objectives and methods. Am J Obstet Gynecol. 2015 Apr;212(4):542.e1-127. doi: 10.1016/j.ajog.2015.01.021. Epub 2015 Mar 4. PMID: 25746730; PMCID: PMC4410772.](https://pubmed.ncbi.nlm.nih.gov/25746730/)
 
 Please include the following text in the Acknowledgements:
 
-> The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be was supported by grant funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) and the National Heart Lung and Blood Institute: U10 HD063036, Research Triangle Institute; U10 HD063072, Case Western Reserve University; U10 HD063047, Columbia University; U10 HD063037, Indiana University; U10 HD063041, Magee-Women's Hospital; U10 HD063020, Northwestern University; U10 HD063046, University of California Irvine; U10 HD063048, University of Pennsylvania; and U10 HD063053, University of Utah. The National Sleep Research Resource was supported by the National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be was supported by grant funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) and the National Heart, Lung, and Blood Institute: U10 HD063036, Research Triangle Institute; U10 HD063072, Case Western Reserve University; U10 HD063047, Columbia University; U10 HD063037, Indiana University; U10 HD063041, Magee-Women's Hospital; U10 HD063020, Northwestern University; U10 HD063046, University of California Irvine; U10 HD063048, University of Pennsylvania; and U10 HD063053, University of Utah. The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
 
 ## Data overview
 
